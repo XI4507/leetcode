@@ -18,4 +18,4 @@ var removeElement = function (nums, val) {
         }
     }
     return j;
-};
+};  
